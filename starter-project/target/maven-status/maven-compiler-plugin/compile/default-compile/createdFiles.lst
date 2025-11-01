@@ -1,0 +1,12 @@
+com/example/ohs/service/PatientService.class
+com/example/ohs/domain/Encounter.class
+com/example/ohs/controller/EncounterController.class
+com/example/ohs/service/EncounterService.class
+com/example/ohs/repository/EncounterRepository.class
+com/example/ohs/domain/Patient.class
+com/example/ohs/controller/PatientController.class
+com/example/ohs/dto/EncounterDto.class
+com/example/ohs/dto/PatientDto.class
+com/example/ohs/OhsApplication.class
+com/example/ohs/exception/GlobalExceptionHandler.class
+com/example/ohs/repository/PatientRepository.class

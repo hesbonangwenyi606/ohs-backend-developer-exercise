@@ -1,0 +1,12 @@
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/OhsApplication.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/dto/EncounterDto.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/dto/PatientDto.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/controller/PatientController.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/service/PatientService.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/exception/GlobalExceptionHandler.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/controller/EncounterController.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/repository/PatientRepository.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/repository/EncounterRepository.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/domain/Encounter.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/service/EncounterService.java
+/home/hesbonangwenyi/Downloads/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/domain/Patient.java
