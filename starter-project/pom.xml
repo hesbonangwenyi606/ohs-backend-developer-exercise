@@ -17,12 +17,13 @@
     <name>ohs</name>
     <description>Outpatient Health System Backend Exercise</description>
 
-    <!-- ✅ Set Java version -->
-    <properties>
-        <java.version>17</java.version>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-    </properties>
+    <!--Set Java version -->
+  <properties>
+    <java.version>17</java.version>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+</properties>
+
 
     <dependencies>
         <!-- Spring Boot starters -->
