@@ -164,8 +164,6 @@ Tests demonstrating correctness
 
 Full documentation (this README)
 
-Optional Dockerfile and migration scaffolding (if added)
-
 How it was built:
 This implementation focuses on correctness, clean modeling, and maintainability — balancing simplicity with production realism for digital health backends.
 
