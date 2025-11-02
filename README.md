@@ -164,18 +164,7 @@ curl http://localhost:8080/api/patients/1/encounters
 ## Built With:
 This implementation focuses on correctness, clean modeling, and maintainability — balancing simplicity with production realism for digital health systems.
 
-<<<<<<< HEAD
-Tests demonstrating correctness
-
-Full documentation (this README)
-
-How it was built:
-This implementation focuses on correctness, clean modeling, and maintainability — balancing simplicity with production realism for digital health backends.
-
-Author
-=======
 ## Author
->>>>>>> 471b518 (completed)
 Hesbon Angwenyi
 Backend Software Engineer
 hesbonamnyinsa96@gmail.com
