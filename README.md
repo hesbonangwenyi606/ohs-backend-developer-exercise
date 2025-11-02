@@ -66,9 +66,9 @@ GET	/api/patients/{id}/encounters	List all encounters for a given patient
 ## Encounter Fields
 Field	Type	Required	Description
 type	String	✅	Encounter type (e.g., Consultation)
-encounterClass	String  	X	Start time (auto-filled if not provided)
-end	ISO DateTime	   X	End time
-description	String	   X	Summary of the encounter
+encounterClass	String    	X	Start time (auto-filled if not provided)
+end	ISO DateTime	          X	End time
+description	String	        X	Summary of the encounter
 
 ### Additional Features
 -Input validation using Jakarta Bean Validation
