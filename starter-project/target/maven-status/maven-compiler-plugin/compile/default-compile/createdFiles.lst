@@ -6,6 +6,7 @@ com/example/ohs/repository/EncounterRepository.class
 com/example/ohs/domain/Patient.class
 com/example/ohs/controller/PatientController.class
 com/example/ohs/dto/EncounterDto.class
+com/example/ohs/controller/HomeController.class
 com/example/ohs/dto/PatientDto.class
 com/example/ohs/OhsApplication.class
 com/example/ohs/exception/GlobalExceptionHandler.class

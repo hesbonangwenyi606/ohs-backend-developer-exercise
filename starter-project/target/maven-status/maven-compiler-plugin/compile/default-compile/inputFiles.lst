@@ -1,12 +1,13 @@
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/domain/Patient.java
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/controller/EncounterController.java
-/home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/repository/PatientRepository.java
-/home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/service/PatientService.java
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/OhsApplication.java
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/repository/EncounterRepository.java
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/domain/Encounter.java
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/exception/GlobalExceptionHandler.java
-/home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/dto/PatientDto.java
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/controller/PatientController.java
+/home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/controller/HomeController.java
+/home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/repository/PatientRepository.java
+/home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/service/PatientService.java
+/home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/dto/PatientDto.java
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/dto/EncounterDto.java
 /home/hesbonangwenyi/project-site/ohs-backend-developer-exercise/starter-project/src/main/java/com/example/ohs/service/EncounterService.java
